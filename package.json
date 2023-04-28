@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "elvis sgit unguti",
+	"author": "Elvis Sunguti",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
